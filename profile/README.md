@@ -7,7 +7,7 @@
 ### 🔧 What We Do
 - **Decentralized Services:** Fabric, Ethereum, Solana & more  
 - **AI & Analytics:** Predictive insights, anomaly detection  
-- **Dev Tools:** `npx create-provenanceprotocol`, auto‑typed SDKs, interactive docs  
+- **Dev Tools:** `npx create-decentralisedprotocol`, auto‑typed SDKs, interactive docs  
  
 
 ---
